@@ -3,10 +3,12 @@
 
 <p>Graduado em engenharia civil. Trabalho na área de tecnologia da informação como Analista de sistema. Atuando em rotinas de desenvolvimento FrontEnd de aplicações, relatórios e dashboards além de testes, atualizações, suporte a usuários na utilização de ferramenta especializada em comercio exterior, através de chamados e treinamento.</p>
 
+## Get Status <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="Git"/>
+
 ![Azambuja GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarAzambuja&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarAzambuja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Snake animation](https://github.com/larissadantier/larissadantier/blob/output/github-contribution-grid-snake.svg)
 
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22> Tecnologias que uso no meu dia! <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22>
 
