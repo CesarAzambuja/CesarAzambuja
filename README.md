@@ -1,7 +1,7 @@
 ## Olá! Eu sou o César Azambuja! 👋
 <br/>
 
-<p>Graduado em engenharia civil. Trabalho na área de tecnologia da informação como Analista de sistema. Atuando em rotinas de desenvolvimento FrontEnd de aplicações, relatórios e dashboards além de testes, atualizações, suporte a usuários na utilização de ferramenta especializada em comercio exterior, através de chamados e treinamento.</p>
+<p>Graduado em engenharia civil. Trabalho na área de tecnologia da informação como Especialista em sistema. Atuando em rotinas de desenvolvimento FrontEnd de aplicações, relatórios e dashboards além de testes, atualizações, suporte a usuários na utilização de ferramenta especializada em comercio exterior, através de chamados e treinamento.</p>
 
 ## Get Status <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="Git"/>
 
